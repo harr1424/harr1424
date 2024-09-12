@@ -5,6 +5,6 @@ I am a Software Engineer focused on back-end web services and CLIs. I get paid t
 I'm currently focused on learning Rust very well. I have published two crates to [crates.io](https://crates.io/users/harr1424) and recently finished a [project](https://github.com/harr1424/scrape_blogger) that I would like to make more flexible and also publish. Check out [my website](https://jharrington.io) to learn more about my other projects. 
 
 <div style="display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harr1424&layout=compact&hide=Jupyter%20Notebook" height="150px"/>
-    <img src="https://streak-stats.demolab.com?user=harr1424&theme=github" height="150px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harr1424&layout=compact&hide=Jupyter%20Notebook" height="250px"/>
+    <img src="https://streak-stats.demolab.com?user=harr1424&theme=github" height="250px"/>
 </div>
