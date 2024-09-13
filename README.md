@@ -6,5 +6,5 @@ I'm currently focused on learning Rust very well. I have published two crates to
 
 <div style="display: flex; align-items: center;">
     <img src="https://streak-stats.demolab.com?user=harr1424&theme=github&theme=merko" height="190px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harr1424&layout=compact&hide=Jupyter%20Notebook&theme=merko" height="190px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harr1424&layout=compact&hide=Jupyter%20Notebook&theme=tokyonight" height="190px"/>
 </div>
