@@ -5,5 +5,5 @@ I am a Software Engineer focused on back-end web services and CLIs. I get paid t
 Developing mobile and desktop apps has provided me with an appreciation for creating reliable and secure back-end web services. I'm currently focused on learning Rust very well. I have published three crates on [crates.io](https://crates.io/users/harr1424).
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harr1424&layout=compact&hide=Jupyter%20Notebook&theme=tokyonight" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harr1424&layout=compact&hide=Jupyter%20Notebook&theme=tokyonight"/>
 </p>
